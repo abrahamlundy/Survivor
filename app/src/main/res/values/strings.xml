@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Survivor</string>
+    <string name="title_activity_see_on_maps">Map</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="pause">Pause</string>
+</resources>
